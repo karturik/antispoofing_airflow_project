@@ -1,0 +1,5 @@
+psycopg2
+toloka-kit
+crowd-kit
+boto3
+botocore
